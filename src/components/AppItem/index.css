@@ -1,0 +1,16 @@
+.list-container {
+  list-style: none;
+  background-color: #ffffff;
+  height: 180px;
+  width: 150px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  text-align: center;
+}
+.img-apps {
+  height: 100px;
+}
